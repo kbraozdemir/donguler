@@ -1,0 +1,7 @@
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\donguler\bin\Debug\donguler.exe.config
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\donguler\bin\Debug\donguler.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\donguler\bin\Debug\donguler.pdb
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\donguler\obj\Debug\donguler.csproj.AssemblyReference.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\donguler\obj\Debug\donguler.csproj.CoreCompileInputs.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\donguler\obj\Debug\donguler.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\donguler\obj\Debug\donguler.pdb
